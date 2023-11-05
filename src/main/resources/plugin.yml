@@ -1,0 +1,4 @@
+name: SmashMobs
+version: '${project.version}'
+main: me.simonfoy.smashmobs.SmashMobs
+api-version: '1.20'
